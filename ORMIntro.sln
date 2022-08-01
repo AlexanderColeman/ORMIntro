@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMIntro", "ORMIntro\ORMIntro.csproj", "{EBC434A0-613B-476E-9C01-52F6DF24F171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC434A0-613B-476E-9C01-52F6DF24F171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC434A0-613B-476E-9C01-52F6DF24F171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC434A0-613B-476E-9C01-52F6DF24F171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC434A0-613B-476E-9C01-52F6DF24F171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E7C0F3-27B1-45C4-834C-E790A2127CCC}
+	EndGlobalSection
+EndGlobal
